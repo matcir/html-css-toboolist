@@ -18,11 +18,50 @@ h1{
 }
 
 .grey{
-    background-color: grey;
+    background-color:#f6f8f9;
 }
 
 .white{
     background-color: white;
+}
+
+.blue{
+    background-color: #14aaf5;
+    color: white;
+}
+
+.button{
+    border-radius: 10px;
+    padding: 6px 8px;
+}
+
+.border1{
+    border-color: #14aaf5;
+}
+
+.border2{
+    border-color:#d5dadd;
+    color:#d5dadd;
+}
+
+.purple{
+    background-color: #ab5de6;
+}
+
+.green{
+    background-color: #2cc6ab;
+}
+
+.orange{
+    background-color: #ff9b00;
+}
+
+.pink{
+    background-color: #ec4a9d;
+}
+
+.lightgreen{
+    background-color: #a3d116;
 }
 
 button{
@@ -39,7 +78,8 @@ hr{
     background-color: white;
     margin: 0 auto;
     width: 60%;
-    margin-top: 40px;
+    margin: 40px auto;
+    border-radius: 8px;
 }
 
 ul{
@@ -60,3 +100,22 @@ ul{
     padding-bottom: 30px;
 }
 
+.bold{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.textbox{
+    color: white;
+    padding: 8px;
+    border-radius: 30px;
+    font-size: 10px;
+}
+
+.text{
+    font-size: large;
+}
+
+li{
+    padding: 15px 10px;
+}
